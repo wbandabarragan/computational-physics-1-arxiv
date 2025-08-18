@@ -102,11 +102,8 @@ If you have questions on the material, you can find me in the office:
 
 - On Tuesdays: 16:00 - 17:00
 
-- On Thursdays: 09:00 - 10:00 
+- On Thursdays: 09:00 - 10:00
 
-## Class attendance:
-
-- As per regulations of the Vicerrector's office of Yachay Tech, you should attend 70% of the classes to pass the course.
 
 ## On academic integrity:
 
