@@ -10,4 +10,8 @@
   
 - 2025 SEMESTER 1: https://github.com/wbandabarragan/computational-physics-1-arxiv/tree/main/2025_SEM1
 
-- 2025 SEMESTER 2 (rolling course): https://github.com/wbandabarragan/computational-physics-1
+- 2025 SEMESTER 2: https://github.com/wbandabarragan/computational-physics-1-arxiv/tree/main/2025_SEM2
+
+- 2026 SEMESTER 1: https://github.com/wbandabarragan/computational-physics-1-arxiv/tree/main/2026_SEM1
+
+- 2026 SEMESTER 2 (rolling course): https://github.com/wbandabarragan/computational-physics-1
